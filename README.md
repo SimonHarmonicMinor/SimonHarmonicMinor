@@ -14,4 +14,9 @@ I'm Semyon. I like to write software that brings benefits to other people.
 -  **Fact :** Writing testable and maintainable code is an essential thing :star: 
 -  **Hobbies :** Guitar :guitar:, vocals :microphone:, and board games :green_book:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Stats
+
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/SimonHarmonicMinor)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/SimonHarmonicMinor)](https://badges.pufler.dev)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=SimonHarmonicMinor&show_icons=true)
